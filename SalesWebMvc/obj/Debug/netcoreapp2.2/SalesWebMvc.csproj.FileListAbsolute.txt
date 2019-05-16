@@ -28,4 +28,3 @@ C:\Users\Diego venancio Linar\source\repos\SalesWebMvc\SalesWebMvc\SalesWebMvc\b
 C:\Users\Diego venancio Linar\source\repos\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.2\SalesWebMvc.Views.pdb
 C:\Users\Diego venancio Linar\source\repos\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.Views.pdb
 C:\Users\Diego venancio Linar\source\repos\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.csproj.CopyComplete
-C:\Users\Diego venancio Linar\source\repos\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
